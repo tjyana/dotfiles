@@ -73,3 +73,6 @@ export PYTHONBREAKPOINT=ipdb.set_trace
 export BROWSER="/mnt/c/Program Files (x86)/Google/Chrome/Application/chrome.exe"
 export GH_BROWSER="'/mnt/c/Program Files (x86)/Google/Chrome/Application/chrome.exe'"
 eval "$(direnv hook zsh)"
+export BROWSER="/mnt/c/Program Files/Google/Chrome/Application/chrome.exe"
+export GH_BROWSER="'/mnt/c/Program Files/Google/Chrome/Application/chrome.exe'"
+eval "$(direnv hook zsh)"
